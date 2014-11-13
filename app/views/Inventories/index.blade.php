@@ -1,0 +1,1 @@
+/var/www/denied_apps/app/views/Inventories/index.blade.php
